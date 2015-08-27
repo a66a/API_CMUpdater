@@ -11,17 +11,6 @@
     "changes": "",
     "incremental": ""
     },
-    {
-
-    "url": "https://www.dropbox.com/s/x5uig4z2idyjk4c/cm-12.1-20150823-UNOFFICIAL-j608_fly.zip?dl=0",
-    "timestamp": "1440314361",
-    "api_level": "22",
-    "md5sum": "563d5ad48b4d191c9e0fd8db380a9516",
-    "filename": "cm-12.1-20150823-UNOFFICIAL-j608_fly.zip",
-    "channel": "NIGHTLY",
-    "changes": "",
-    "incremental": ""
-    },
   ],
  "error": null
 }
