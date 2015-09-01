@@ -2,6 +2,16 @@
  "id": null,
  "result": [
 {
+    "url": "https://www.dropbox.com/s/hd6rqwl4ze7nrds/cm-12.1-20150901-UNOFFICIAL-j608_fly.zip?dl=1",
+    "timestamp": "1441038646",
+    "api_level": "22",
+    "md5sum": "11f355098436962652184bad4225d240",
+    "filename": "cm-12.1-20150901-UNOFFICIAL-j608_fly.zip",
+    "channel": "NIGHTLY",
+    "changes": "https://raw.githubusercontent.com/hyperion70/API_CMUpdater/master/CHANGELOG",
+    "incremental": ""
+    },
+{
     "url": "https://www.dropbox.com/s/dd1i44uim2b2vhz/cm-12.1-20150828-UNOFFICIAL-j608_fly.zip?dl=1",
     "timestamp": "1440738942",
     "api_level": "22",
