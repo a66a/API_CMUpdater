@@ -31,6 +31,16 @@
     "changes": "https://raw.githubusercontent.com/hyperion70/API_CMUpdater/master/CHANGELOG-02",
     "incremental": "0f1662477f"
     },
+{
+    "url": "https://www.dropbox.com/s/jpcgdygm1sd4otf/cm-12.1-20151221-UNOFFICIAL-IQ4511.zip?dl=1",
+    "timestamp": "1450713492",
+    "api_level": "22",
+    "md5sum": "9d006a68a01e37e201e502a8e79ab688",
+    "filename": "cm-12.1-20151221-UNOFFICIAL-IQ4511.zip",
+    "channel": "NIGHTLY",
+    "changes": "https://raw.githubusercontent.com/hyperion70/API_CMUpdater/master/CHANGELOG-03",
+    "incremental": "c9575d77aa"
+    },
   ],
  "error": null
 }
