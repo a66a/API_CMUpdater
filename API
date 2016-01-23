@@ -2,44 +2,14 @@
  "id": null,
  "result": [
 {
-    "url": "https://www.dropbox.com/s/uu8e6xs1w6xjrq2/j608_fly_ota_090815_090312.zip?dl=1",
-    "timestamp": "1441169694",
+    "url": "https://www.dropbox.com/s/k7kuvuy5nyndnkr/cm-12.1-20160109-UNOFFICIAL-IQ4511.zip?dl=1",
+    "timestamp": "1452363548",
     "api_level": "22",
-    "md5sum": "92ee907265e69c110cde582383658033",
-    "filename": "j608_fly_ota_090815_090312.zip",
-    "channel": "NIGHTLY",
-    "changes": "https://raw.githubusercontent.com/hyperion70/API_CMUpdater/master/CHANGELOG",
-    "incremental": ""
-    },
-{
-    "url": "https://www.dropbox.com/s/dd1i44uim2b2vhz/cm-12.1-20150828-UNOFFICIAL-j608_fly.zip?dl=1",
-    "timestamp": "1440738942",
-    "api_level": "22",
-    "md5sum": "4fc60e0af5365bfbce1986e08474a291",
-    "filename": "cm-12.1-20150828-UNOFFICIAL-j608_fly.zip",
-    "channel": "NIGHTLY",
-    "changes": "https://raw.githubusercontent.com/hyperion70/API_CMUpdater/master/CHANGELOG",
-    "incremental": ""
-    },
-{
-    "url": "https://www.dropbox.com/s/12lr12ig4voclef/cm-12.1-20151206-UNOFFICIAL-IQ4511.zip?dl=1",
-    "timestamp": "1449403637",
-    "api_level": "22",
-    "md5sum": "6c2db89f6ffddc7f8171e906e2201818",
-    "filename": "cm-12.1-20151206-UNOFFICIAL-IQ4511.zip",
-    "channel": "NIGHTLY",
-    "changes": "https://raw.githubusercontent.com/hyperion70/API_CMUpdater/master/CHANGELOG-02",
-    "incremental": "0f1662477f"
-    },
-{
-    "url": "https://www.dropbox.com/s/jpcgdygm1sd4otf/cm-12.1-20151221-UNOFFICIAL-IQ4511.zip?dl=1",
-    "timestamp": "1450713492",
-    "api_level": "22",
-    "md5sum": "9d006a68a01e37e201e502a8e79ab688",
-    "filename": "cm-12.1-20151221-UNOFFICIAL-IQ4511.zip",
-    "channel": "NIGHTLY",
-    "changes": "https://raw.githubusercontent.com/hyperion70/API_CMUpdater/master/CHANGELOG-03",
-    "incremental": "c9575d77aa"
+    "md5sum": "907286e8a058cdce39dff19ae8626594",
+    "filename": "cm-12.1-20160109-UNOFFICIAL-IQ4511.zip",
+    "channel": "RELEASE",
+    "changes": "https://raw.githubusercontent.com/hyperion70/API_CMUpdater/master/CHANGELOG-04",
+    "incremental": "11dda10729"
     },
   ],
  "error": null
