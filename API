@@ -8,7 +8,7 @@
     "md5sum": "19161479641973e922daf75e3b33d103",
     "filename": "cm-12.1-20160406-UNOFFICIAL-i504.zip",
     "channel": "NIGHTLY",
-    "changes": "https://github.com/Besik13/API_CMUpdater/blob/master/CHANGELOG",
+    "changes": "https://raw.githubusercontent.com/Besik13/API_CMUpdater/master/CHANGELOG",
     "incremental": "60e6d0440a"
     },
   ],
