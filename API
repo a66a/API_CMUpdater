@@ -9,7 +9,7 @@
     "filename": "cm-12.1-20160406-UNOFFICIAL-i504.zip",
     "channel": "NIGHTLY",
     "changes": "https://raw.githubusercontent.com/Besik13/API_CMUpdater/master/CHANGELOG",
-    "incremental": "60e6d0440a"
+    "incremental": "2730a13c3e"
     },
   ],
  "error": null
