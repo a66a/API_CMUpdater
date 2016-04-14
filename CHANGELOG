@@ -1,2 +1,6 @@
-Исправлен перенос приложений на SD-Card
+-----------20160414-----------
+Fix hw decoding, but in YouTube client we can't select quality higher then 360p.
+
+-----------20160413-----------
+Fixed a move application to the memory card.
 
