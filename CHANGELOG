@@ -1,3 +1,8 @@
+-----------20160416-----------
+Fixed GPS
+Fixed reboot on the lock screen
+Fixed display of installed applications
+Fixed display of widgets
 -----------20160414-----------
 Fix hw decoding, but in YouTube client we can't select quality higher then 360p.
 
