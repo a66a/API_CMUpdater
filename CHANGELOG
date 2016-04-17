@@ -4,7 +4,7 @@ Fixed reboot on the lock screen
 Fixed display of installed applications
 Fixed display of widgets
 -----------20160414-----------
-Fix hw decoding, but in YouTube client we can't select quality higher then 360p.
+Fixed hw decoding, but in YouTube client we can't select quality higher then 360p.
 
 -----------20160413-----------
 Fixed a move application to the memory card.
