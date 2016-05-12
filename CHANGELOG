@@ -1,3 +1,7 @@
+-----------20160512-----------
+Fixed a2dp
+Fixed external storage writing
+Added thermal config
 -----------20160416-----------
 Fixed GPS
 Fixed reboot on the lock screen
