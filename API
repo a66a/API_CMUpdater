@@ -2,14 +2,14 @@
  "id": null,
  "result": [
 {
-    "url": "",
-    "timestamp": "",
+    "url": "https://www.dropbox.com/s/ulrtlwhu34bdxgm/cm-12.1-20160519-UNOFFICIAL-a66a.zip?dl=1",
+    "timestamp": "1463651275",
     "api_level": "22",
-    "md5sum": "",
-    "filename": "",
+    "md5sum": "e1cbce30bafd73d08d66b2b67ddd7d73",
+    "filename": "cm-12.1-20160519-UNOFFICIAL-a66a.zip",
     "channel": "NIGHTLY",
     "changes": "https://raw.githubusercontent.com/a66a/API_CMUpdater/master/CHANGELOG",
-    "incremental": ""
+    "incremental": "b2a0737071"
     },
   ],
  "error": null
